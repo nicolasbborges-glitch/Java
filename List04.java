@@ -67,7 +67,7 @@ public class List04 {
 
     // 7 - Desconto para Associados
       System.out.print("Você é associado da loja? (sim/não): ");
-        sc.nextLine(); // limpar buffer
+        sc.nextLine();
         String resposta = sc.nextLine();
         if (resposta.equalsIgnoreCase("sim")) {
             System.out.println("Você tem desconto");
