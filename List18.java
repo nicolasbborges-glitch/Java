@@ -2,7 +2,7 @@ package firstProject;
 
 public class List18 {
 	public static void main(String[] args) {
-		// Chamadas para testar as funções
+
 		Apresentacao();
 		Frase();
 		Contagem();
@@ -15,7 +15,7 @@ public class List18 {
 	}
 	
 	public static void Apresentacao() {
-		System.out.println("Nícolas Barros Borges");
+		System.out.println("Nicolas Barros Borges");
 	}
 
 	public static void Frase() {
