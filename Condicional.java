@@ -22,13 +22,11 @@ public class Condicional {
 	} else {
 		 System.out.println("Você não ganhou desconto");
 	}
-	
-	
-	
+		
+		
 	}
 
 	private static Scanner Scanner(InputStream in) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 

@@ -97,6 +97,7 @@ public class List11 {
         } while (resposta.equalsIgnoreCase("sim"));
         System.out.println("Encerrado.");
         
+ 	sc.close();
  	
 	}
 
